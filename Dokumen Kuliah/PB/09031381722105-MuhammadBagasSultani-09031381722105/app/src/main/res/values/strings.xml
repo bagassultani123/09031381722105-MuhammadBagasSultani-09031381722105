@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Info Bengkel</string>
+    <string-array name="array_bengkel">
+        <item>Jaya Abadi Palembang</item>
+        <item>sinar jaya motor</item>
+        <item>Samurai Paint - Setia Motor</item>
+        <item>Kencana Raya Motor</item>
+        <item>Tosca Motor</item>
+        <item>Bintang Motor</item>
+        <item>Inti Motor Km 5</item>
+        <item>Toko Daniel Motor km 5 palembang</item>
+        <item>Jaya Motor</item>
+        <item>Berkat Motor</item>
+        <item>Capella Motor</item>
+        <item>Ferio Motor</item>
+        <item>Panca Jaya Motor</item>
+        <item>Zona Motor</item>
+        <item>Candi Bengkel</item>
+        <item>Rizky Motor</item>
+        <item>Sumber Kita Jaya</item>
+        <item>Teman Baru</item>
+        <item>Kms Variasi Motor Palembang</item>
+        <item>Omega Motor</item>
+    </string-array>
+
+</resources>
